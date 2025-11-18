@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/e2e-tests-go-lpyfndpy-import:aea76a7fc717485ae7f42967f38b8d9b567463cf@sha256:96123eb8e79c9a61a4c5e845d8684e0c72435648c576112ce980ea1fda30ed92
+        - image: quay.io/rhtap_qe/e2e-tests-go-lpyfndpy-import:267de07cdb5b0f43fdf753e1f3f8d987be9ec006@sha256:fab1a0a86ed9a995959bcbca29739021a07baf62d15c372c10daa27867ed3db8
           name: container-image
